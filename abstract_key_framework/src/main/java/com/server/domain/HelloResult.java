@@ -1,6 +1,6 @@
 package com.server.domain;
 
-public class ResponseResult {
+public class HelloResult {
   
   private String code;
 
